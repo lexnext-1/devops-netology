@@ -1,7 +1,7 @@
 # devops-netology
 
 ## demo-stand1
-
+ddd
 
 Гитигнор терраформа игнорируем:
 
